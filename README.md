@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">Overzealous FullStack Developer from NYC</h3>
+<h3 align="center">Software Developer from NYC</h3>
 
 
 - 📫 How to reach me **nandreala@gmail.com**
